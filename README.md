@@ -60,7 +60,6 @@ else:
 print("--------------------------------------------------------------")
 `````
 
-
 ## Output :
 
 ![image](https://github.com/sruthiviswanadham/Muttiple-capacity-with-infinite-capacity/assets/151760421/15c6cb07-5634-43c3-9b16-0df854112f17)
